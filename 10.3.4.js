@@ -1,1 +1,6 @@
-console.log (Math.floor(Math.random() * 101))
+// Задание 4.
+
+// Записать в переменную случайное целое число в диапазоне [0; 100]. Используйте объект Math.
+
+
+console.log(Math.floor(Math.random() * 101))
